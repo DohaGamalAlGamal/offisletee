@@ -1,0 +1,127 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: kumbhsans-bold;
+}
+@font-face {
+  font-family: kumbhsans-bold;
+  src: url(/fonts/KumbhSans-Bold.ttf);
+}
+@font-face {
+  font-family: kumbhsans-regular;
+  src: url(/fonts/KumbhSans-Regular.ttf);
+}
+a{
+text-decoration: none;
+padding-right: 8px;
+}
+.nav{
+  margin-left: 700px;
+
+  padding: 20px;
+  display: inline-block;
+}
+.nav:hover{
+ 
+}
+.link:hover{
+ color: #000;
+ 
+}
+.conteanier {
+  padding: 7%;
+}
+.offisellate {
+  padding-bottom: 20px;
+}
+.navegation{
+  display: flex;
+}
+.chart-text {
+  display: flex;
+}
+.simple-slotion {
+  color: #333950;
+  font-size: 56;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.addvantegest-officllete {
+  color: #747b95;
+  font-size: 18px;
+  font-family: kumbhsans-regular;
+  padding-bottom: 30px;
+}
+.get-started {
+  font-size: 16px;
+  padding: 18px 20px;
+  background-color: #5175ff;
+  color: #fff;
+  border: none;
+  border-radius: 120px;
+}
+.get-started:hover {
+  background-color: #829cff;
+}
+.plants-box {
+  display: flex;
+  justify-content: space-evenly;
+}
+.plant {
+  text-align: center;
+  line-height: 60px;
+  padding: 30px;
+  border: none;
+  border-radius: 18px;
+}
+.plant:hover {
+  background-color: #5175ff;
+}
+.basic {
+  font-size: 20px;
+  color: #333950;
+  padding-bottom: 20px;
+}
+.free {
+  font-size: 56px;
+  color: #333950;
+}
+.user-free {
+  font-size: 16px;
+  color: #747b95;
+  font-family: kumbhsans-regular;
+}
+.buttom-plants {
+  font-size: 16px;
+  padding: 15px 20px;
+  background-color: #ffffff;
+  color: #5175ff;
+  border: none;
+  border-radius: 120px;
+}
+.date {
+  display: flex;
+}
+.day {
+  font-size: 56px;
+  line-height: 50px;
+  color: #fff;
+  padding: 20px 15px 0px 15px;
+  background-color: #333950;
+  margin-right: 20px;
+  border: none;
+  border-radius: 15px;
+}
+.started {
+  margin: 70px 0px 1px 500px;
+  font-size: 16px;
+  padding: 10px 20px;
+  background-color: #5175ff;
+  color: #fff;
+  border: none;
+  border-radius: 120px;
+}
+.started:hover {
+  background-color: #829cff;
+}
